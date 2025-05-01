@@ -1,0 +1,18 @@
+# Python virtual environments
+env/
+venv/
+
+# Bytecode files
+__pycache__/
+*.pyc
+
+# IDE settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# System files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
